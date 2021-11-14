@@ -5,9 +5,6 @@ Abstract
 
 The goal of this project is about exploring streamlit with more details. Here were are going to make an EDA with a data set containing sales and mutation of houses, fiels, etc.
 
-
-Tnd most popular testing tool in the Scala ecosystem.
-
 ___
 Links
 ---------
