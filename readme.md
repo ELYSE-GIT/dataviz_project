@@ -43,6 +43,6 @@ EFREI School -  M1 Big Data & IA Project 2021/2022 - Project for Streamlit cours
 ____
 CONCLUSION 
 ----------
-This project allowed us me to master a dataviz tools. Streamlit is very interesting because we save a lot of time.
+This project allowed me to master a dataviz tools. Streamlit is very interesting because we save a lot of time.
 During this project, the online materials and the courses were very beneficial. 
 Thanks to all kind of supports ( teacher, streamlit, youtubers, blogs ...)
